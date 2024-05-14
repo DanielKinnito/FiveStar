@@ -1,0 +1,6 @@
+need to change
+core.php, logout.php, index.php
+header('location: http://localhost:3307/stock/index.php');	
+
+Username: admin
+password: passwords
